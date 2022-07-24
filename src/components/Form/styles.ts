@@ -28,6 +28,7 @@ export const styles = StyleSheet.create({
     marginRight: 8
   },
   input: {
+    alignContent: 'flex-start',
     height: 112,
     padding: 12,
     marginBottom: 8,
